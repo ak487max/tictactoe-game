@@ -1,2 +1,2 @@
-<title>tic tac toe game</title>
+<b>tic tac toe game</b>
 with javascript+html+css
